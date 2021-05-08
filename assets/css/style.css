@@ -50,6 +50,7 @@ p {
     font-size: 16px;
 }
 
+/* Back image at top of site */
 .hero {
     height: 800px;
     width: 100%;
@@ -86,22 +87,26 @@ p {
     background-color: #2589bd;
 }
 
+/* Controls text boxes on the right */
 .benefits div {
     margin-bottom: 32px;
     color: #ffffff;
 }
 
+/* Controls headers of right text boxes */
 .benefits h3 {
     margin-bottom: 10px;
     text-align: center;
 }
 
+/* Controls images with right text boxes */
 .benefits img {
     display: block;
     margin: 10px auto;
     max-width: 150px;
 }
 
+/* Controls text boxes on the left */
 .content div {
     margin-bottom: 20px;
     padding: 50px;
@@ -111,10 +116,12 @@ p {
     color: #ffffff;
 }
 
+/* Controls images with left text boxes */
 .content img {
     max-height: 200px;
 }
 
+/* Controls headers of left text boxes */
 .content h2 {
     margin-bottom: 20px;
     font-size: 36px;
